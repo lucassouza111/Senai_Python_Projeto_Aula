@@ -1,0 +1,22 @@
+Estrutura
+|
+|_ app.py
+|_ templates/
+    |_ index.css
+    |_ logo.png
+|_ *
+
+Objetivo: Criar um web app oferecendo os recursos:
+- Adicionar nova tarefa
+- Exibir a lista de tarefas
+- Marcar tarefas como concluídas
+- Remover tarefas da lista
+
+Permitir que trabalhem os seguintes conseitos:
+- Rotas
+- Renderização
+- Interação de dados
+_ Organização dos dados
+_ Persistência de dados *
+
+* No primeiro momento os dados serão armazenaods em memória
